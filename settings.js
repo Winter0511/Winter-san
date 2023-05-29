@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Winyer']
+global.owner = ['Winter']
 global.premium = ['Your Number']
 global.ownernomer = 'Your Number'
 global.ownername = '🐦Winter'
 global.botname = 'Winter-san'
-global.footer = '©NexusNwInc.'
+global.footer = 'Bruv do not spam bot.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'Africa, Zimbabwe'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'

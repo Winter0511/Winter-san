@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['Winter']
-global.premium = ['Your Number']
+global.premium = ['263776988683']
 global.ownernomer = 'Your Number'
 global.ownername = '🐦Winter'
 global.botname = 'Winter-san'
@@ -29,8 +29,8 @@ global.ig = 'https://github.com/nexusNw'
 global.region = 'Africa, Zimbabwe'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/@s1ngleCODM 
-global.packname = 'Gojo-Satoru'
-global.author = 'Astolfo'
+global.packname = 'winter'
+global.author = 'Astolfo x Winter'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
